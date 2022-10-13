@@ -1,2 +1,2 @@
-# .github
-![banner](./proile/banner.jpeg)
+
+![banner](./profile/imgs/banner.jpeg)
